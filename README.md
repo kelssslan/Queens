@@ -51,4 +51,7 @@ By testing the fitness of the genotypes, the program can move closer to a soluti
 More resources:
 
 https://en.wikipedia.org/wiki/Evolutionary_algorithm#:~:text=In%20computational%20intelligence%20(CI)%2C,mutation%2C%20recombination%2C%20and%20selection.
+
+<br>
+
 https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/#:~:text=The%20N%20Queen%20is%20the,two%20queens%20attack%20each%20other.&text=The%20expected%20output%20is%20a,for%20above%204%20queen%20solution.
