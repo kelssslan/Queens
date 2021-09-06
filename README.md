@@ -27,7 +27,7 @@ javac *.java
 
 Run the code:
 
-java Start
+java Tester
 
 
 The program should look like this:
