@@ -1,9 +1,9 @@
 # Queens
 
 
-Course: COMP 3200 Algorithmic Techniques for Artificial Intelligence  <br>
-Topics: BFS, DFS, Greedy algorithm, heuristic functions <br>
-Professor:** Dr.Mark Hatcher http://www.cs.mun.ca/~mhatcher/ **  <br>
+Course: COMP 3201 Introduction to Nature-Inspired Computing  <br>
+Topics: Evolutionary Algorithms <br>
+Professor: Dr.Mark Hatcher http://www.cs.mun.ca/~mhatcher/  <br>
 
 
 A special thanks to Dr.Churchill for implementing a fun and great way to learn path searching methods. And also for giving me permission to share my experience with these assignments.
@@ -31,3 +31,14 @@ The program should look like this:
 
 ![Screen Shot 2021-09-06 at 12 46 23](https://user-images.githubusercontent.com/66441548/132238340-71a582d7-7612-40ca-878b-c7f45429b6a7.png)
 
+
+
+This assignment allowed students to have a better understanding of how evoluntionary algorithms work by implementing the following functions:
+
+![Screen Shot 2021-09-06 at 12 59 46](https://user-images.githubusercontent.com/66441548/132239266-1bb76aca-e472-4a9c-8f8f-915859f5b15d.png)
+
+9 10 6 5 3 2 11 1 4 7 8 12
+
+means that a queen is located at (column 1, row 9) (Column 2, row 10) ....
+
+By testing the fitness of the genotypes, the program can move closer to a solution to solve the N queens problem
